@@ -12,6 +12,7 @@ module Ast
 
 open FSharp.Compatibility.OCaml
 open FSharp.Compatibility.OCaml.Format
+open Support
 
 (* ---------------------------------------------------------------------- *)
 (* Datatypes *)

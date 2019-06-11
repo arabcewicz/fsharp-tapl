@@ -19,8 +19,9 @@ See LICENSE.TXT for licensing details.
 module Lexer
 
 open System
+open Support
 open Parser
-open Microsoft.FSharp.Text.Lexing
+open FSharp.Text.Lexing
 open FSharp.Compatibility.OCaml
 
 let lexeme lexbuf =

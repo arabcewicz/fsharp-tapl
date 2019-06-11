@@ -54,3 +54,8 @@ _ReSharper*/
 
 # Office Temp Files
 ~$*
+
+.idea/
+Lexer.fs
+Parser.fsi
+Parser.fs

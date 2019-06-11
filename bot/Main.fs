@@ -16,14 +16,10 @@ See LICENSE.TXT for licensing details.
 
 module Main
 
-open System
-open Microsoft.FSharp.Text
-open Microsoft.FSharp.Text.Lexing
 open FSharp.Compatibility.OCaml
 open FSharp.Compatibility.OCaml.Format
+open Support
 open Ast
-open Lexer
-open Parser
 open Core
 
 

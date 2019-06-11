@@ -11,6 +11,7 @@ See LICENSE.TXT for licensing details.
 module Core
 
 open FSharp.Compatibility.OCaml
+open Support
 open Ast
 
 (* ------------------------   EVALUATION  ------------------------ *)

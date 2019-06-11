@@ -12,6 +12,7 @@ module Core
 
 open FSharp.Compatibility.OCaml
 open Ast
+open Support
 
 (* ------------------------   EVALUATION  ------------------------ *)
 exception NoRuleApplies
